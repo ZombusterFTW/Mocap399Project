@@ -5,6 +5,24 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Game399/Mocap399Project/Mocap399Proj/Game399Proj/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Game399/Mocap399Project/Mocap399Proj/Game399Proj/Content/399PrevisLevels/Battlefield.umap",
+				"D:/Game399/Mocap399Project/Mocap399Proj/Game399Proj/Content/BattleSequence.uasset",
+				"D:/Game399/Mocap399Project/Mocap399Proj/Game399Proj/Content/Audio/Battlefield/BattlefieldBard1.uasset",
+				"D:/Game399/Mocap399Project/Mocap399Proj/Game399Proj/Content/Audio/Battlefield/396800__scorpion67890__male-death-3.uasset",
+				"D:/Game399/Mocap399Project/Mocap399Proj/Game399Proj/Content/Audio/Battlefield/458067__theuncertainman__charge-version-1-british-warrior.uasset",
+				"D:/Game399/Mocap399Project/Mocap399Proj/Game399Proj/Content/Audio/Battlefield/ttsMP3_com_VoiceText_2024-2-22_21-46-53.uasset",
+				"D:/Game399/Mocap399Project/Mocap399Proj/Game399Proj/Content/Audio/Battlefield/180026__leechlights__swords_fight_1.uasset",
+				"D:/Game399/Mocap399Project/Mocap399Proj/Game399Proj/Content/Audio/Battlefield/Isabella/ttsMP3_com_VoiceText_2024-2-22_23-11-4.uasset",
+				"D:/Game399/Mocap399Project/Mocap399Proj/Game399Proj/Content/Audio/Battlefield/Isabella/ttsMP3_com_VoiceText_2024-2-22_23-11-18.uasset",
+				"D:/Game399/Mocap399Project/Mocap399Proj/Game399Proj/Content/Audio/Battlefield/Isabella/ttsMP3_com_VoiceText_2024-2-22_23-11-31.uasset",
+				"D:/Game399/Mocap399Project/Mocap399Proj/Game399Proj/Content/Audio/Battlefield/Bard2.uasset",
+				"D:/Game399/Mocap399Project/Mocap399Proj/Game399Proj/Content/Audio/Battlefield/Sophia/ttsMP3_com_VoiceText_2024-2-22_23-10-3.uasset",
+				"D:/Game399/Mocap399Project/Mocap399Proj/Game399Proj/Content/Audio/Battlefield/Sophia/ttsMP3_com_VoiceText_2024-2-22_23-9-16.uasset",
+				"D:/Game399/Mocap399Project/Mocap399Proj/Game399Proj/Content/Audio/Battlefield/Sophia/ttsMP3_com_VoiceText_2024-2-22_23-9-27.uasset",
+				"D:/Game399/Mocap399Project/Mocap399Proj/Game399Proj/Content/Audio/Battlefield/Sophia/ttsMP3_com_VoiceText_2024-2-22_23-9-35.uasset",
+				"D:/Game399/Mocap399Project/Mocap399Proj/Game399Proj/Content/Audio/Battlefield/Sophia/ttsMP3_com_VoiceText_2024-2-22_23-9-40.uasset",
+				"D:/Game399/Mocap399Project/Mocap399Proj/Game399Proj/Content/Audio/Battlefield/Sophia/ttsMP3_com_VoiceText_2024-2-22_23-9-49.uasset",
 				"C:/Users/Riyan/Documents/George Mason BS/10 Spring 24/GAME 399/Mashup Previs/Mocap399Project/Mocap399Proj/Game399Proj/Content/399PrevisLevels/Tavern.umap",
 				"C:/Users/Riyan/Documents/George Mason BS/10 Spring 24/GAME 399/Mashup Previs/Mocap399Project/Mocap399Proj/Game399Proj/Content/TavernSequence.uasset",
 				"C:/Users/Riyan/Documents/George Mason BS/10 Spring 24/GAME 399/Mashup Previs/Mocap399Project/Mocap399Proj/Game399Proj/Content/Audio/191437__muse384__busy-bar.uasset",
@@ -142,7 +160,6 @@
 				"C:/Users/Kaleb/Documents/Game399Proj/Mocap399Project/Mocap399Proj/Game399Proj/Content/Models/Alpha_Joints_MAT.uasset",
 				"C:/Users/Kaleb/Documents/Game399Proj/Mocap399Project/Mocap399Proj/Game399Proj/Content/Models/Y_Bot_Skeleton.uasset",
 				"C:/Users/Kaleb/Documents/Game399Proj/Mocap399Project/Mocap399Proj/Game399Proj/Content/Models/Y_Bot_PhysicsAsset.uasset",
-				"D:/Game399/Mocap399Project/Mocap399Proj/Game399Proj/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/Game399/Mocap399Project/Mocap399Proj/Game399Proj/Content/399PrevisLevels/PrevisLevel.umap"
 			]
 		}
